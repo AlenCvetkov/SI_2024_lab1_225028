@@ -1,0 +1,41 @@
+commit 6a8f789afdc470bd6d0699718d0498a613c154cb
+Author: Alen Cvetkov <alen.cvetkov@students.finki.ukim.mk>
+Date:   Sun Mar 31 21:40:45 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit 005470c4cea0a65ae5b0eaa7c1c927d3512e530a
+Author: Alen Cvetkov <alen.cvetkov@students.finki.ukim.mk>
+Date:   Sun Mar 31 21:31:36 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 63b7ed238ac77e6237311c3814ca941a7bc1d56f
+Author: Alen Cvetkov <alen.cvetkov@students.finki.ukim.mk>
+Date:   Sun Mar 31 21:34:55 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit f3e1062bf219ef16c04443c7386223cd0f748e1d
+Author: Alen Cvetkov <alen.cvetkov@students.finki.ukim.mk>
+Date:   Sun Mar 31 21:30:02 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 58c2bc147ed1fbc0a115b7eea951b3aeafab52de
+Author: Alen Cvetkov <alen.cvetkov@students.finki.ukim.mk>
+Date:   Sun Mar 31 21:09:44 2024 +0200
+
+    Add starter code
+
+commit dca0dcf04d6a172962621111987a96975406f699
+Author: Alen Cvetkov <alen.cvetkov@students.finki.ukim.mk>
+Date:   Sun Mar 31 21:03:36 2024 +0200
+
+    Initial commit
+
+commit 4db4c9dd9ee548bb3e47fb6a1e15680a560caa49
+Author: Alen Cvetkov <alen.cvetkov@students.finki.ukim.mk>
+Date:   Sun Mar 31 20:57:31 2024 +0200
+
+    First commit
